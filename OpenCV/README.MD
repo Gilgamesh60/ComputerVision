@@ -10,7 +10,7 @@ The OCV Project notebook contains the implementation of Color Detection and Hist
 
 Note:
 
--📑OpenCV
+-📑[OpenCV]('OpenCV/OpenCV.ipynb')
 
--📑OCV Project II
+-📑OCV Project (
 
