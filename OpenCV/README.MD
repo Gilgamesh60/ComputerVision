@@ -12,5 +12,6 @@ The OCV Project notebook contains the implementation of Color Detection and Hist
 Note:
 
 -📑OpenCV
+
 -📑OCV Project II
 
